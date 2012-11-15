@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Our favorite three-headed authentication proxy",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:hcs/fluffy.git"
